@@ -1,0 +1,32 @@
+{
+  "name": "es6-basis",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "learning es6 project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaihilaJerez/es6-basis.git"
+  },
+  "keywords": [
+    "areglos",
+    "dunciones",
+    "objetos"
+  ],
+  "author": "Naihila Jerez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaihilaJerez/es6-basis/issues"
+  },
+  "homepage": "https://github.com/NaihilaJerez/es6-basis#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
