@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon async/Evidencias/naruto.js"
+    "dev": "nodemon async/Evidencias/Api2.js"
   },
   "repository": {
     "type": "git",
